@@ -1,5 +1,5 @@
 Machine Learning Lab Assignment
-</n>Rakshak Dhone
-</n>SY-CSAI-B
-</n>Roll no. : 282039
-</n>PRN: 22311129
+</b>Rakshak Dhone
+</b>SY-CSAI-B
+</b>Roll no. : 282039
+</b>PRN: 22311129
